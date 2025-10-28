@@ -1,2 +1,2 @@
 # Input-SQL-Data-
-Exercise1
+These a list of exercises with answers which have a question papaer attached to them
